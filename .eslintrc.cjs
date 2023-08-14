@@ -19,6 +19,5 @@ module.exports = {
     // enable no unused vars and imports
     '@typescript-eslint/no-unused-vars': 'error',
     '@typescript-eslint/no-unused-expressions': 'error',
-
   },
 }
